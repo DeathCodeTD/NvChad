@@ -1,5 +1,10 @@
 <h1 align="center">NvChad</h1>
 
+# Added Native LSP
+# Added the godot-server for development with godot
+
+
+
 <div align="center">
 	<a href="https://nvchad.github.io/">Home</a>
   <span> • </span>
